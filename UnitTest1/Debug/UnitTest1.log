@@ -1,0 +1,6 @@
+﻿  UnitTest1.cpp
+D:\OOP\LABOOP\3\lab3.2.2\UnitTest1\UnitTest1.cpp(1): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+D:\OOP\LABOOP\3\lab3.2.2\UnitTest1\UnitTest1.cpp(1): message : Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+D:\OOP\LABOOP\3\lab3.2.2\UnitTest1\UnitTest1.cpp(2): message : использование предварительно скомпилированного заголовка
+     Создается библиотека D:\OOP\LABOOP\3\lab3.2.2\Debug\UnitTest1.lib и объект D:\OOP\LABOOP\3\lab3.2.2\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\OOP\LABOOP\3\lab3.2.2\Debug\UnitTest1.dll
